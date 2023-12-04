@@ -1,5 +1,8 @@
 [package]
-name = "aoc23_rs" # the name of the package
-version = "0.1.0"    # the current version, obeying semver
-authors = ["m0veax"]
+name = "aoc23_rs"
+version = "0.1.0"
+edition = "2021"
 
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
